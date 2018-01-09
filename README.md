@@ -13,6 +13,11 @@ It will be common to require custom Jenkins slaves, and if so, a README should l
 
 Please see https://github.com/redhat-cop/container-pipelines or https://github.com/redhat-cop/containers-quickstarts for this type of content.
 
+## Helpful Hints
+
+* [IDE Syntax Support](https://gist.github.com/arehmandev/736daba40a3e1ef1fbe939c6674d7da8). Each GDSL syntax file will be specific to the plugins you have installed, so please don't commit the resulting file. There
+
+
 # Other Resources
 
 * https://github.com/fabric8io/fabric8-jenkinsfile-library which influenced the structure of this project
